@@ -1,3 +1,163 @@
+# GPU Gems
+
+## GPU Gems 1
+
+### Part I: Natural Effects  
+Chapter 1. Effective Water Simulation from Physical Models  
+Chapter 2. Rendering Water Caustics  
+Chapter 3. Skin in the "Dawn" Demo  
+Chapter 4. Animation in the "Dawn" Demo  
+Chapter 5. Implementing Improved Perlin Noise  
+Chapter 6. Fire in the "Vulcan" Demo  
+Chapter 7. Rendering Countless Blades of Waving Grass  
+Chapter 8. Simulating Diffraction  
+### Part II: Lighting and Shadows  
+Chapter 9. Efficient Shadow Volume Rendering  
+Chapter 10. Cinematic Lighting  
+Chapter 11. Shadow Map Antialiasing  
+Chapter 12. Omnidirectional Shadow Mapping  
+Chapter 13. Generating Soft Shadows Using Occlusion Interval Maps  
+Chapter 14. Perspective Shadow Maps: Care and Feeding  
+Chapter 15. Managing Visibility for Per-Pixel Lighting  
+### Part III: Materials  
+Chapter 16. Real-Time Approximations to Subsurface Scattering  
+Chapter 17. Ambient Occlusio  
+Chapter 18. Spatial BRDFs  
+Chapter 19. Image-Based Lighting  
+Chapter 20. Texture Bombing  
+### Part IV: Image Processing  
+Chapter 21. Real-Time Glow  
+Chapter 22. Color Controls  
+Chapter 23. Depth of Field: A Survey of Techniques  
+Chapter 24. High-Quality Filtering  
+Chapter 25. Fast Filter-Width Estimates with Texture Maps  
+Chapter 26. The OpenEXR Image File Format  
+Chapter 27. A Framework for Image Processing  
+### Part V: Performance and Practicalities  
+Chapter 28. Graphics Pipeline Performance  
+Chapter 29. Efficient Occlusion Culling  
+Chapter 30. The Design of FX Composer  
+Chapter 31. Using FX Composer  
+Chapter 32. An Introduction to Shader Interfaces  
+Chapter 33. Converting Production RenderMan Shaders to Real-Time  
+Chapter 34. Integrating Hardware Shading into Cinema 4D  
+Chapter 35. Leveraging High-Quality Software Rendering Effects in Real-Time Applications  
+Chapter 36. Integrating Shaders into Applications  
+### Part VI: Beyond Triangles  
+Chapter 37. A Toolkit for Computation on GPUs  
+Chapter 38. Fast Fluid Dynamics Simulation on the GPU  
+Chapter 39. Volume Rendering Techniques  
+Chapter 40. Applying Real-Time Shading to 3D Ultrasound Visualization  
+Chapter 41. Real-Time Stereograms  
+Chapter 42. Deformers  
+  
+## GPU Gems 2  
+  
+### Part I: Geometric Complexity  
+Chapter 1. Toward Photorealism in Virtual Botany  
+Chapter 2. Terrain Rendering Using GPU-Based Geometry Clipmaps  
+Chapter 3. Inside Geometry Instancing  
+Chapter 4. Segment Buffering  
+Chapter 5. Optimizing Resource Management with Multistreaming  
+Chapter 6. Hardware Occlusion Queries Made Useful  
+Chapter 7. Adaptive Tessellation of Subdivision Surfaces with Displacement Mapping  
+Chapter 8. Per-Pixel Displacement Mapping with Distance Functions  
+### Part II: Shading, Lighting, and Shadows  
+Chapter 9. Deferred Shading in S.T.A.L.K.E.R.  
+Chapter 10. Real-Time Computation of Dynamic Irradiance Environment Maps  
+Chapter 11. Approximate Bidirectional Texture Functions  
+Chapter 12. Tile-Based Texture Mapping  
+Chapter 13. Implementing the mental images Phenomena Renderer on the GPU  
+Chapter 14. Dynamic Ambient Occlusion and Indirect Lighting  
+Chapter 15. Blueprint Rendering and "Sketchy Drawings"  
+Chapter 16. Accurate Atmospheric Scattering  
+Chapter 17. Efficient Soft-Edged Shadows Using Pixel Shader Branching  
+Chapter 18. Using Vertex Texture Displacement for Realistic Water Rendering  
+Chapter 19. Generic Refraction Simulation  
+### Part III: High-Quality Rendering  
+Chapter 20. Fast Third-Order Texture Filtering  
+Chapter 21. High-Quality Antialiased Rasterization  
+Chapter 22. Fast Prefiltered Lines  
+Chapter 23. Hair Animation and Rendering in the Nalu Demo  
+Chapter 24. Using Lookup Tables to Accelerate Color Transformations  
+Chapter 25. GPU Image Processing in Apple's Motion  
+Chapter 26. Implementing Improved Perlin Noise  
+Chapter 27. Advanced High-Quality Filtering  
+Chapter 28. Mipmap-Level Measurement  
+### Part IV: General-Purpose Computation on GPUS: A Primer  
+Chapter 29. Streaming Architectures and Technology Trends  
+Chapter 30. The GeForce 6 Series GPU Architecture  
+Chapter 31. Mapping Computational Concepts to GPUs  
+Chapter 32. Taking the Plunge into GPU Computing  
+Chapter 33. Implementing Efficient Parallel Data Structures on GPUs  
+Chapter 34. GPU Flow-Control Idioms  
+Chapter 35. GPU Program Optimization  
+Chapter 36. Stream Reduction Operations for GPGPU Applications  
+### Part V: Image-Oriented Computing  
+Chapter 37. Octree Textures on the GPU  
+Chapter 38. High-Quality Global Illumination Rendering Using Rasterization  
+Chapter 39. Global Illumination Using Progressive Refinement Radiosity  
+Chapter 40. Computer Vision on the GPU  
+Chapter 41. Deferred Filtering: Rendering from Difficult Data Formats  
+Chapter 42. Conservative Rasterization  
+### Part VI: Simulation and Numerical Algorithms  
+Chapter 43. GPU Computing for Protein Structure Prediction  
+Chapter 44. A GPU Framework for Solving Systems of Linear Equations  
+Chapter 45. Options Pricing on the GPU  
+Chapter 46. Improved GPU Sorting  
+Chapter 47. Flow Simulation with Complex Boundaries  
+Chapter 48. Medical Image Reconstruction with the FFT  
+  
+## GPU Gems 3  
+  
+### Part I: Geometry  
+Chapter 1. Generating Complex Procedural Terrains Using the GPU  
+Chapter 2. Animated Crowd Rendering  
+Chapter 3. DirectX 10 Blend Shapes: Breaking the Limits  
+Chapter 4. Next-Generation SpeedTree Rendering  
+Chapter 5. Generic Adaptive Mesh Refinement  
+Chapter 6. GPU-Generated Procedural Wind Animations for Trees  
+Chapter 7. Point-Based Visualization of Metaballs on a GPU  
+### Part II: Light and Shadows  
+Chapter 8. Summed-Area Variance Shadow Maps  
+Chapter 9. Interactive Cinematic Relighting with Global Illumination  
+Chapter 10. Parallel-Split Shadow Maps on Programmable GPUs  
+Chapter 11. Efficient and Robust Shadow Volumes Using Hierarchical Occlusion Culling and Geometry Shaders  
+Chapter 12. High-Quality Ambient Occlusion  
+Chapter 13. Volumetric Light Scattering as a Post-Process  
+### Part III: Rendering  
+Chapter 14. Advanced Techniques for Realistic Real-Time Skin Rendering  
+Chapter 15. Playable Universal Capture  
+Chapter 16. Vegetation Procedural Animation and Shading in Crysis  
+Chapter 17. Robust Multiple Specular Reflections and Refractions  
+Chapter 18. Relaxed Cone Stepping for Relief Mapping  
+Chapter 19. Deferred Shading in Tabula Rasa  
+Chapter 20. GPU-Based Importance Sampling  
+### Part IV: Image Effects  
+Chapter 21. True Impostors  
+Chapter 22. Baking Normal Maps on the GPU  
+Chapter 23. High-Speed, Off-Screen Particles  
+Chapter 24. The Importance of Being Linear  
+Chapter 25. Rendering Vector Art on the GPU  
+Chapter 26. Object Detection by Color: Using the GPU for Real-Time Video Image Processing  
+Chapter 27. Motion Blur as a Post-Processing Effect  
+Chapter 28. Practical Post-Process Depth of Field  
+### Part V: Physics Simulation  
+Chapter 29. Real-Time Rigid Body Simulation on GPUs  
+Chapter 30. Real-Time Simulation and Rendering of 3D Fluids  
+Chapter 31. Fast N-Body Simulation with CUDA  
+Chapter 32. Broad-Phase Collision Detection with CUDA  
+Chapter 33. LCP Algorithms for Collision Detection Using CUDA  
+Chapter 34. Signed Distance Fields Using Single-Pass GPU Scan Conversion of Tetrahedra  
+Chapter 35. Fast Virus Signature Matching on the GPU  
+### Part VI: GPU Computing  
+Chapter 36. AES Encryption and Decryption on the GPU  
+Chapter 37. Efficient Random Number Generation and Application Using CUDA  
+Chapter 38. Imaging Earth's Subsurface Using CUDA  
+Chapter 39. Parallel Prefix Sum (Scan) with CUDA  
+Chapter 40. Incremental Computation of the Gaussian  
+Chapter 41. Using the Geometry Shader for Compact and Variable-Length GPU Feedback  
+  
 # ShaderX  
 
 ## Shaderx 1 Vertex and Pixel Shader Tips and Tricks  
