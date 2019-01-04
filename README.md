@@ -1,3 +1,205 @@
+# Game Programming Gems   
+
+##  Game Programming Gems 1  
+
+### Section 4 Polygonal Techniques  
+4.0 Optimizing Vertex Submissions for OpenGL  
+4.1 Tweaking A Vertex's Projected Depth Value  
+4.2 The Vector Camera  
+4.3 Camera Control Techniques  
+4.4 A Fast Cylinder-Frustum Intersection Test  
+4.5 3D Collision Detection  
+4.6 Multi-Resolution Maps for Interaction Detection  
+4.7 Computing the Distance into a Sector  
+4.8 Object Occlusion Culling  
+4.9 Never Let 'Em See You Pop - Issues in Geometric Level of Detail Selection  
+4.10 Octree Construction  
+4.11 Loose Octrees  
+4.12 View-Independent Progressive Meshing  
+4.13 Interpolated 3D Keyframe Animation  
+4.14 A Fast and Simple Skinning Techniques  
+4.15 Filling the Gaps - Advanced Animation Using Stitching and Skinning  
+4.16 Real-Time Realistic Terrain Generation  
+4.17 Fractal Terrain Generation - Fault Formation  
+4.18 Fractal Terrain Generation - Midpoint Displacement 
+4.19 Fractal Terrain Generation - Particle Deposition  
+
+### Section 5 Pixel Effects  
+5.0 2D Lens Flare  
+5.1 Using 3D Hardware for 2D Sprite Effects  
+5.2 Motif-Based Static Lighting  
+5.3 Simulated Real-Time Lighting Using Vertex Color Interpolation  
+5.4 Attenuation Maps  
+5.5 Advanced Texturing Using Texture Coordinate Generation  
+5.6 Hardware Bump Mapping  
+5.7 Ground-Plane Shadows  
+5.8 Real-Time Shadows on Complex Objects  
+5.9 Improving Environment-Mapped Reflection Using Glossy Prefiltering and the Fresnel Term  
+5.10 Convincing-Looking Glass for Games  
+5.11 Refraction Mapping for Liquids in Containers  
+
+##  Game Programming Gems 2
+
+### Section 4 - Geometry Management 
+4.1 Comparison of VIPM Methods  
+4.2 Simplified Terrain Using Interlocking Tiles  
+4.3 Sphere Trees for Fast Visibility Culling, Ray Tracing, and Range Searching  
+4.4 Compressed Axis-Aligned Bounding Box Trees  
+4.5 Direct Access Quadtree Lookup  
+4.6 Approximating Fish Tank Refractions  
+4.7 Rendering Print Resolution Screenshots  
+4.8 Applying Decals to Arbitrary Surfaces  
+4.9 Rendering Distant Scenery with Skyboxes  
+4.10 Self-Shadowing Characters  
+4.11 Classic Super Mario 64 Third-Person Control and Animation  
+
+### Section 5 - Graphics Display 
+5.1 Cartoon Rendering: Real-time Silhouette Edge Detection and Rendering  
+5.2 Cartoon Rendering Using Texture Mapping and Programmable Vertex Shaders  
+5.3 Dynamic Per-Pixel Lighting Techniques  
+5.4 Generating Procedural Clouds Using 3D Hardware  
+5.5 Texture Masking for Faster Lens Flare  
+5.6 Practical Priority Buffer Shadows  
+5.7 Impostors: Adding Clutter  
+5.8 Operations for Hardware-Accelerated Procedural Texture Animation  
+
+##  Game Programming Gems 3
+
+### Section 4 Graphics  
+4.1 T-Junction Elimination and Retriangulation  
+4.2 Fast Heightfield Normal Calculation  
+4.3 Fast Patch Normals  
+4.4 Fast and Simple Occlusion Culling  
+4.5 Triangle Strip Creation, Optimizations, and Rendering  
+4.6 Computing Optimized Shadow Volumes for Complex Data Sets  
+4.7 Subdivision Surfaces for Character Animation  
+4.8 Improved Deformation of Bones  
+4.9 A Framework for Realistic Character Locomotion  
+4.10 A Programmable Vertex Shader Compiler  
+4.11 Billboard Beams  
+4.12 3D Tricks for Isometric Engines 
+4.13 Curvature Simulation Using Normal Maps  
+4.14 Methods for Dynamic, Photorealistic Terrain Lighting  
+4.15 Cube Map Lighting Techniques  
+4.16 Procedural Texturing  
+4.17 Unique Textures  
+4.18 Textures as Lookup Tables for Per-Pixel Lighting Computations  
+4.19 Rendering with Handcrafted Shading Models  
+
+##  Game Programming Gems 4
+
+### Section 5 Graphics  
+5.1 Poster Quality Screenshots  
+5.2 GPU Shadow Volume Construction for Nonclosed Meshes  
+5.3 Perspective Shadow Maps  
+5.4 Combined Depth and ID-Based Shadow Buffers  
+5.5 Carving Static Shadows into Geometry  
+5.8 Techniques to Apply Team Colors to 3D Models  
+5.9 Fast Sepia Tone Conversion  
+5.10 Dynamic Gamma Using Sampled Scene Luminance  
+5.11 Heat and Haze Post-Processing Effects  
+5.13 Motion Capture Data Compression  
+5.14 Fast Collision Detection for 3D Bones-Based Articulated Characters  
+5.15 Terrain Occlusion Culling with Horizons  
+
+##  Game Programming Gems 5
+
+### Section 5 Graphics  
+5.1 Realistic Cloud Rendering on Modern GPUs  
+5.2 Let It Snow, Let It Snow, Let It Snow (and Rain)  
+5.3 Widgets: Rendering Fast and Persistent Foliage  
+5.4 2.5 Dimensional Impostors for Realistic Trees and Forests  
+5.5 Gridless Controllable Fire  
+5.6 Powerful Explosion Effects Using Billboard Particles  
+5.7 A Simple Method for Rendering Gemstones  
+5.8 Volumetric Post-Processing  
+5.9 Procedural Level Generation  
+5.10 Recombinant Shaders  
+
+##  Game Programming Gems 6
+
+### Section 5 Graphics  
+5.1 Synthesis of Realistic Idle Motion for Interactive Characters  
+5.2 Spatial Partitioning Using an Adaptive Binary Tree  
+5.3 Enhanced Object Culling with (Almost) Oriented Bounding Boxes  
+5.4 Skin Splitting for Optimal Rendering  
+5.5 GPU Terrain Rendering  
+5.6 Interactive Fluid Dynamics and Rendering on the GPU  
+5.7 Fast Per-Pixel Lighting with Many Lights  
+5.8 Rendering Road Signs Sharply  
+5.9 Practical Sky Rendering for Games  
+5.10 High Dynamic Range Rendering Using OpenGL Frame Buffer Objects   
+
+##  Game Programming Gems 7
+
+### Section 5 Graphics  
+5.1. Advanced Particle Deposition   
+5.2. Reducing Cumulative Errors in Skeletal Animations    
+5.3. An Alternative Model for Shading of Diffuse Light for Rough Materials    
+5.4. High-Performance Subdivision Surfaces   
+5.5. Animating Relief Impostors Using Radial Basis Functions Textures    
+5.6. Clipmapping on SM1.1 and Higher   
+5.7. An Advanced Decal System   
+5.8. Mapping Large Textures for Outdoor Terrain Rendering   
+5.9. Art-Based Rendering with Graftal Imposters   
+5.10. Cheap Talk: Dynamic Real-Time Lipsync   
+
+##  Game Programming Gems 8
+
+### Section 1 Graphics
+1.1 Fast Font Rendering with Instancing  
+1.2 Principles and Practice of Screen Space Ambient Occlusion  
+1.3 Multi-Resolution Deferred Shading  
+1.4 View Frustum Culling of Catmull-Clark Patches in DirectX 11  
+1.5 Ambient Occlusion Using DirectX Compute Shader  
+1.6 Eye-View Pixel Anti-Aliasing for Irregular Shadow Mapping  
+1.7 Overlapped Execution on Programmable Graphics Hardware  
+1.8 Techniques for Effective Vertex and Fragment Shading on the SPUs  
+
+# Game Engine Gems
+
+## Game Engine Gems, Volume 1
+
+### Part II — Rendering Techniques  
+15. Physically-Based Outdoor Scene Lighting  
+16. Rendering Physically-Based Skyboxes  
+17. Motion Blur and the Velocity-Depth-Gradient Buffer  
+18. Fast Screen-space Ambient Occlusion and Indirect Lighting  
+19. Real-Time Character Dismemberment  
+20. A Deferred Decal Rendering Technique  
+
+
+## Game Engine Gems, Volume 2
+
+### Part I — Graphics and Rendering  
+1. Fast Computation of Tight-Fitting Oriented Bounding Boxes  
+2. Modeling, Lighting, and Rendering Techniques for Volumetric Clouds  
+3. Simulation of Night-Vision and Infrared Sensors  
+4. Screen-Space Classification for Efficient Deferred Shading  
+5. Delaying OpenGL Calls  
+6. A Framework for GLSL Engine Uniforms  
+7. A Spatial and Temporal Coherence Framework for Real-Time Graphics  
+8. Implementing a Fast Diffusion DOF Solver  
+9. Automatic Dynamic Stereoscopic 3D  
+10. Practical Stereo Rendering  
+11. Making 3D Stereoscopic Games  
+12. A Generic Multi-View Rendering Engine Architecture  
+13. 3D in a Web Browser  
+14. 2D Magic  
+
+## Game Engine Gems, Volume 3  
+
+### Part I — Graphics and Rendering    
+1. The Open Game Engine Exchange Format  
+2. Realistic Blending of Skies, Water, and Terrain  
+3. Fog with a Linear Density Function  
+4. Vegetation Management in Leadwerks Game Engine 4  
+5. Smooth Horizon Mapping  
+6. Buffer-Free Generation of Triangle Strip Cube Vertices  
+7. Edge-Preserving Smoothing Filter for Particle Based Rendering  
+8. Variable Precision Pixel Shading for Improved Power Efficiency  
+9. A Fast and High-Quality Texture Atlasing Algorithm  
+
 # GPU Gems
 
 ## GPU Gems 1
