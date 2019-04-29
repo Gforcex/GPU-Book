@@ -1048,3 +1048,31 @@ V 3D Engine Design
 ### VI Compute 
 1 Optimizing the Graphics Pipeline with Compute   
 2 Real Time Markov Decision Processes for Crowd Simulation  
+
+## GPU Zen 2
+
+### I Rendering 
+1. Adaptive GPU Tessellation with Compute Shaders
+2. Applying Vectorized Visibility on All frequency Direct Illumination 
+3. Non-periodic Tiling of Noise-based Procedural Textures by Aleksandr Kirillov
+4. Rendering Surgery Simulation with Vulkan
+5. Skinned Decals
+
+### II Environmental Effects 
+1. Real-Time Fluid Simulation in Shadow of the Tomb Raider 
+2. Real-time Snow Deformation in Horizon Zero Dawn: The Frozen Wilds
+
+### III Shadows (Maurizio Vives)
+1. Soft Shadow Approximation for Dappled Light Sources 
+2. Parallax-Corrected Cached Shadow Maps
+
+### IV 3D Engine Design 
+1. Real-Time Layered Materials Compositing Using Spatial Clustering Encoding
+2. Procedural Stochastic Textures by Tiling and Blending
+3. A Ray Casting Technique for Baked Texture Generation
+4. Writing an efficient Vulkan renderer
+5. glTF - Runtime 3D Asset Delivery
+
+### V Ray Tracing (Anton Kaplanyan)
+1. Real-Time Ray-Traced One-Bounce Caustics
+2. Adaptive Anti-Aliasing using Conservative Rasterization and GPU Ray Tracing
