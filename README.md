@@ -1076,3 +1076,52 @@ V 3D Engine Design
 ### V Ray Tracing (Anton Kaplanyan)
 1. Real-Time Ray-Traced One-Bounce Caustics
 2. Adaptive Anti-Aliasing using Conservative Rasterization and GPU Ray Tracing
+
+## Ray Tracing Gems
+
+### PART 1: RAY TRACING BASICS
+1. Ray Tracing Terminology
+2. What is a Ray? 
+3. Introduction to DirectX Raytracing
+4. A Planetarium Dome Master Camera
+5. Computing Minima and Maxima of Subarrays
+
+### PART 2: INTERSECTIONS AND EFFICIENCY
+6. A Fast and Robust Method for Avoiding Self-Intersection
+7. Precision Improvements for Ray/Sphere Intersection
+8. Cool Patches: A Geometric Approach to Ray/Bilinear Patch Intersections
+9. Multi-Hit Ray Tracing in DXR
+10. A Simple Load-Balancing Scheme with High Scaling Efficiency
+
+### PART 3: REFLECTIONS, REFRACTIONS, AND SHADOWS
+11. Automatic Handling of Materials in Nested Volumes
+12. A Microfacet-Based Shadowing Function to Solve the Bump Terminator Problem
+13. Ray Traced Shadows: Maintaining Real-Time Frame Rates
+14. Ray-Guided Volumetric Water Caustics in Single Scattering Media with DXR, by Holger Gruen
+
+### PART 4: SAMPLING
+15. On the Importance of Sampling
+16. Sample Transformations Zoo
+17. Ignoring the Inconvenient When Tracing Rays
+18. Importance Sampling of Many Lights on the GPU
+
+### PART 5: DENOISING AND FILTERING
+19. Cinematic Rendering in UE4 with Real-Time Ray Tracing and Denoising
+20. Texture Level of Detail Strategies for Real-Time Ray Tracing
+21. Simple Environment Map Filtering Using Ray Cones and Ray Differentials
+22. Improving Temporal Antialiasing with Adaptive Ray Tracing
+
+### PART 6: HYBRID APPROACHES AND SYSTEMS
+23. Interactive Light Map and Irradiance Volume Preview in Frostbite
+24. Real-Time Global Illumination with Photon Mapping
+25. Hybrid Rendering for Real-Time Ray Tracing
+26. Deferred Hybrid Path Tracing
+27. Interactive Ray Tracing Techniques for High-Fidelity Scientific Visualization
+
+### PART 7: GLOBAL ILLUMINATION
+28. Ray Tracing Inhomogeneous Volumes
+29. Efficient Particle Volume Splatting in a Ray Tracer
+30. Caustics Using Screen Space Photon Mapping
+31. Variance Reduction via Footprint Estimation in the Presence of Path Reuse
+32. Accurate Real-Time Specular Reflections with Radiance Caching
+
