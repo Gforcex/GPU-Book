@@ -200,6 +200,81 @@
 8. Variable Precision Pixel Shading for Improved Power Efficiency  
 9. A Fast and High-Quality Texture Atlasing Algorithm  
 
+# Insights
+
+## OpenGL Insights
+
+Teaching Computer Graphics Starting with Shader-Based OpenGL
+Transitioning Students to Post-Deprecation OpenGL
+WebGL for OpenGL Developers
+Porting Mobile Apps to WebGL
+The GLSL Shader Interfaces
+An Introduction to Tessellation Shaders
+Procedural Textures in GLSL
+OpenGL SC Emulation Based on OpenGL and OpenGL ES
+Mixing Graphics and Compute with Multiple GPUs
+GPU Tessellation: We Still Have a LOD of Terrain to Cover
+Antialiased Volumetric Lines Using Shader-Based Extrusion
+2D Shape Rendering by Distance Fields
+Efficient Text Rendering in WebGL
+Layered Textures Rendering Pipeline
+Depth of Field with Bokeh Rendering
+Real-Time Physically Based Deformation Using Transform Feedback
+Hierarchical Depth Culling and Bounding-Box Management on the GPU
+Massive Number of Shadow-Casting Lights with Layered Rendering
+Efficient Layered Fragment Buffer Techniques
+Programmable Vertex Pulling
+Octree-Based Sparse Voxelization Using the GPU Hardware Rasterizer
+Performance Tuning for Tile-Based Architectures
+Exploring Mobile vs. Desktop OpenGL Performance
+Improving Performance by Reducing Calls to the Driver
+Indexing Multiple Vertex Arrays
+Multi-GPU Rendering on NVIDIA Quadro
+Asynchronous Buffer Transfers
+Fermi Asynchronous Texture Transfers
+WebGL Models: End-to-End
+In-Game Video Capture with Real-Time Texture Compression
+An OpenGL-Friendly Geometry File Format and Its Maya Exporter
+ARB_debug_output: A Helping Hand for Desperate Developers
+The OpenGL Timer Query
+A Real-Time Profiling Tool
+Browser Graphics Analysis and Optimizations
+Performance State Tracking
+Monitoring Graphics Memory Usage
+The ANGLE Project: Implementing OpenGL ES 2.0 on Direct3D
+SceneJS: A WebGL-Based Scene Graph Engine
+Features WebGL and Design Choices in SpiderGL
+Multimodal Interactive Simulations on the Web
+A Subset Approach to Using OpenGL and OpenGL ES
+Jesse Barker, Alexandros Frantzis
+The Build Syndrome
+
+## WebGL Insights
+
+ANGLE: A Desktop Foundation for WebGL
+Mozilla's Implementation of WebGL
+Continuous Testing of Chrome's WebGL Implementation
+Getting Serious with JavaScript
+Emscripten & WebGL
+Data Visualization with WebGL: from Python to JavaScript
+Teaching an Introductory Computer Graphics Course with WebGL
+Bug-Free and Fast Mobile WebGL
+WebGL Engine Design in Babylon.js
+Rendering Optimizations in the Turbulenz Engine
+Performance and Rendering Algorithms in Blend4Web
+Sketchfab Material Pipeline: From File Variations to Shader Generation
+glslify: A module system for GLSL
+Budgeting Frame Time
+Deferred Shading in Luma
+HDR Image-Based Lighting on the Web
+Real-Time Volumetric Lighting for WebGL
+Terrain Geometry – LOD Adapting Concentric Rings
+Data Visualization Techniques with WebGL
+hare3d - Rendering Large Models in the Browser
+The BrainBrowser Surface Viewer: WebGL-based Neurological Data Visualization
+Usability of WebGL Applications
+Designing Cameras for WebGL Applications
+
 # GPU Gems
 
 ## GPU Gems 1
