@@ -1205,125 +1205,125 @@ V 3D Engine Design
 # Advances in Real-Time Rendering in 3D Graphics and Games
 
 ## SIGGRAPH 2020
-Software-Based Variable Rate Shading in Call of Duty: Modern Warfare
-Rendering the Hellscape of Doom Eternal
-From Ray to Path Tracing: Navigating through Dimensions
-Precomputed Lighting Advances in Call of Duty: Modern Warfare
-The Technical Art of The Last of Us Part II
+Software-Based Variable Rate Shading in Call of Duty: Modern Warfare  
+Rendering the Hellscape of Doom Eternal  
+From Ray to Path Tracing: Navigating through Dimensions  
+Precomputed Lighting Advances in Call of Duty: Modern Warfare  
+The Technical Art of The Last of Us Part II  
 
 ## SIGGRAPH 2019
-A Journey Through Implementing Multiscattering BRDFs and Area Lights
-Leveraging Real-Time Ray Tracing to build a Hybrid Game Engine
-Strand-based Hair Rendering in Frostbite
-Mesh Shading: Towards Greater Efficiency of Geometry Processing
-Interactive Wind and Vegetation in 'God of War'
-Multi-resolution Ocean Rendering in Crest Ocean System
-Creating the Atmospheric World of Red Dead Redemption 2: A Complete and Integrated Solution
+A Journey Through Implementing Multiscattering BRDFs and Area Lights  
+Leveraging Real-Time Ray Tracing to build a Hybrid Game Engine  
+Strand-based Hair Rendering in Frostbite  
+Mesh Shading: Towards Greater Efficiency of Geometry Processing  
+Interactive Wind and Vegetation in 'God of War'  
+Multi-resolution Ocean Rendering in Crest Ocean System  
+Creating the Atmospheric World of Red Dead Redemption 2: A Complete and Integrated Solution  
 
 ## SIGGRAPH 2018
-The Challenges of Rendering an Open World in Far Cry 5
-Material Advances in Call of Duty: WWII
-A Life of a Bokeh
-The Road toward Unified Rendering with Unity’s High Definition Render Pipeline
-Efficient Screen-Space Subsurface Scattering Using Burley’s Normalized Diffusion in Real-Time
-Real-Time rendering’s next frontier: Adopting lessons from offline ray tracing to real-time ray tracing for practical pipelines
-Real-Time Ray Tracing of Correct* Soft Shadows
+The Challenges of Rendering an Open World in Far Cry 5  
+Material Advances in Call of Duty: WWII  
+A Life of a Bokeh  
+The Road toward Unified Rendering with Unity’s High Definition Render Pipeline  
+Efficient Screen-Space Subsurface Scattering Using Burley’s Normalized Diffusion in Real-Time  
+Real-Time rendering’s next frontier: Adopting lessons from offline ray tracing to real-time ray tracing for practical pipelines  
+Real-Time Ray Tracing of Correct* Soft Shadows  
 
 ## SIGGRAPH 2017
-Nubis: Authoring Real-Time Volumetric Cloudscapes with the Decima Engine
-Crest: Novel Ocean Rendering Techniques in an Open Source Framework
-Precomputed lighting in Call of Duty: Infinite Warfare
-Dynamic Temporal Antialiasing in Call of Duty: Infinite Warfare
-The Destiny Particle Architecture
-Decima Engine: Advances in Lighting and AA
-Optimized pixel-projected reflections for planar reflectors    
-Improved Culling for Tiled and Clustered Rendering
+Nubis: Authoring Real-Time Volumetric Cloudscapes with the Decima Engine  
+Crest: Novel Ocean Rendering Techniques in an Open Source Framework  
+Precomputed lighting in Call of Duty: Infinite Warfare  
+Dynamic Temporal Antialiasing in Call of Duty: Infinite Warfare  
+The Destiny Particle Architecture  
+Decima Engine: Advances in Lighting and AA  
+Optimized pixel-projected reflections for planar reflectors      
+Improved Culling for Tiled and Clustered Rendering  
 
 ## SIGGRAPH 2016
-Volumetric Global Illumination at Treyarch
-Deferred Lighting in Uncharted 4
-Real-Time Area Lighting: a Journey from Research to Production
-Rendering Rapids in Uncharted 4
-Aggregate G-Buffer Anti-Aliasing in Unreal Engine 4
-The devil is in the details:  idTech 666
-Temporal Antialiasing in Uncharted 4   
-Filmic SMAA: Sharp Morphological and Temporal Antialiasing
-The Process of Creating Volumetric-based Materials in Uncharted 4
-Technical Art of Uncharted 4
+Volumetric Global Illumination at Treyarch  
+Deferred Lighting in Uncharted 4  
+Real-Time Area Lighting: a Journey from Research to Production  
+Rendering Rapids in Uncharted 4  
+Aggregate G-Buffer Anti-Aliasing in Unreal Engine 4  
+The devil is in the details:  idTech 666  
+Temporal Antialiasing in Uncharted 4     
+Filmic SMAA: Sharp Morphological and Temporal Antialiasing  
+The Process of Creating Volumetric-based Materials in Uncharted 4  
+Technical Art of Uncharted 4  
 
 ## SIGGRAPH 2015
-Towards Unified and Physically-Based Volumetric Lighting in Frostbite
-Stochastic Screen-Space Reflections
-The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn
-A Novel Sampling Algorithm for Fast and Stable Real-Time Volume Rendering
-Sparkly but not too Sparkly! A Stable and Robust Procedural Sparkle Effect
-Multi-Scale Global Illumination in Quantum Break
-Rendering the Alternate History of The Order: 1886
-Learning from Failure: a Survey of Promising, Unconventional and Mostly Abandoned Renderers for ‘Dreams PS4’, a Geometrically Dense, Painterly UGC Game’
-Dynamic Occlusion with Signed Distance Fields
-GPU-Driven Rendering Pipelines
+Towards Unified and Physically-Based Volumetric Lighting in Frostbite  
+Stochastic Screen-Space Reflections  
+The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn  
+A Novel Sampling Algorithm for Fast and Stable Real-Time Volume Rendering  
+Sparkly but not too Sparkly! A Stable and Robust Procedural Sparkle Effect  
+Multi-Scale Global Illumination in Quantum Break  
+Rendering the Alternate History of The Order: 1886  
+Learning from Failure: a Survey of Promising, Unconventional and Mostly Abandoned Renderers for ‘Dreams PS4’, a Geometrically Dense, Painterly UGC Game’  
+Dynamic Occlusion with Signed Distance Fields  
+GPU-Driven Rendering Pipelines  
 
 ## SIGGRAPH 2014
-Next Generation Post Processing in Call of Duty: Advanced Warfare
-High-Quality Temporal Supersampling
-Rendering Techniques in Ryse: Son of Rome
-Hybrid Reconstruction Anti-Aliasing
-Volumetric Fog: Unified Compute Shader-Based Solution to Atmospheric Scattering
-Real-time Lighting via Light Linked List
-Reflection System in Thief
-Tessellation in Call of Duty: Ghosts
-Reflections and Volumetrics of Killzone Shadow Fall
-Creating Content to Drive Destiny’s Investment Game: One Solution to Rule Them All
-Character Heads Creation Pipeline and Rendering in Destiny
-Destiny Character-Animation System and Lessons Learned
+Next Generation Post Processing in Call of Duty: Advanced Warfare  
+High-Quality Temporal Supersampling  
+Rendering Techniques in Ryse: Son of Rome  
+Hybrid Reconstruction Anti-Aliasing  
+Volumetric Fog: Unified Compute Shader-Based Solution to Atmospheric Scattering  
+Real-time Lighting via Light Linked List  
+Reflection System in Thief  
+Tessellation in Call of Duty: Ghosts  
+Reflections and Volumetrics of Killzone Shadow Fall  
+Creating Content to Drive Destiny’s Investment Game: One Solution to Rule Them All  
+Character Heads Creation Pipeline and Rendering in Destiny  
+Destiny Character-Animation System and Lessons Learned  
 
 ## SIGGRAPH 2013
-Mythic Science Fiction In Real-Time: Destiny Rendering Engine
-Pixel Synchronization: Solving Old Graphics Problems With New Data Structures
-Practical Clustered Deferred And Forward Shading
-The Redengine 3 Character Pipeline
-Oceans On A Shoestring : Shape Representation, Meshing And Shading
-Graphics Gems From Cryengine 3
+Mythic Science Fiction In Real-Time: Destiny Rendering Engine  
+Pixel Synchronization: Solving Old Graphics Problems With New Data Structures   
+Practical Clustered Deferred And Forward Shading  
+The Redengine 3 Character Pipeline  
+Oceans On A Shoestring : Shape Representation, Meshing And Shading  
+Graphics Gems From Cryengine 3  
  
 
 ## SIGGRAPH 2012
-Scalable High Quality Motion Blur and Ambient Occlusion
-Real-Time Global Illumination and Reflections in Dust 514
-Separable Subsurface Scattering & Photorealistic Eyes Rendering
-Accelerating Rendering Pipelines Using Bidirectional Iterative Reprojection
-CSM Scrolling, an Acceleration Technique for the Rendering of Cascaded Shadow Maps
-The Technology Behind the “Unreal Engine 4 Elemental demo”
-Rock-Solid Shading: Image Stability without Sacrificing Detail
-Dynamic Sand Simulation and Rendering in Journey
-Graphics gems for games: Findings from Avalanche Studios
+Scalable High Quality Motion Blur and Ambient Occlusion  
+Real-Time Global Illumination and Reflections in Dust 514  
+Separable Subsurface Scattering & Photorealistic Eyes Rendering  
+Accelerating Rendering Pipelines Using Bidirectional Iterative Reprojection  
+CSM Scrolling, an Acceleration Technique for the Rendering of Cascaded Shadow Maps  
+The Technology Behind the “Unreal Engine 4 Elemental demo”  
+Rock-Solid Shading: Image Stability without Sacrificing Detail  
+Dynamic Sand Simulation and Rendering in Journey  
+Graphics gems for games: Findings from Avalanche Studios  
 
 
 ## SIGGRAPH 2011
-Making Game Worlds from Polygon Soup: Visibility, Spatial hierarchy and Rendering Challenges
-Rendering in Cars 2
-Secrets of CryENGINE 3  Graphics Technology
-Two uses of Voxels in LittleBigPlanet2’s graphics engine
-More Performance! Five Rendering Ideas from Battlefield 3 and Need For Speed: The Run
-Physically-based lighting in Call of Duty: Black Ops
-Real-time image quilting: Arbitrary material blends, invisible seams, and no repeats
-Dynamic lighting in God of War 3
-Pre-Integrated Skin Shading
+Making Game Worlds from Polygon Soup: Visibility, Spatial hierarchy and Rendering Challenges  
+Rendering in Cars 2  
+Secrets of CryENGINE 3  Graphics Technology  
+Two uses of Voxels in LittleBigPlanet2’s graphics engine  
+More Performance! Five Rendering Ideas from Battlefield 3 and Need For Speed: The Run  
+Physically-based lighting in Call of Duty: Black Ops  
+Real-time image quilting: Arbitrary material blends, invisible seams, and no repeats  
+Dynamic lighting in God of War 3  
+Pre-Integrated Skin Shading  
 
 ## SIGGRAPH 2010
-Rendering techniques in Toy Story 3
-A Real-Time Radiosity Architecture for Video Game
-Real-Time Order Independent Transparency and Indirect Illumination using Direct3D 11
-CryENGINE 3: Reaching the Speed of Light
-Sample Distribution Shadow Maps
-Adaptive Volumetric Shadow Maps
-Uncharted 2: Character Lighting and Shading
-Destruction Masking in Frostbite 2 using Volume Distance Fields
-Water Flow in Portal 2
+Rendering techniques in Toy Story 3  
+A Real-Time Radiosity Architecture for Video Game  
+Real-Time Order Independent Transparency and Indirect Illumination using Direct3D 11  
+CryENGINE 3: Reaching the Speed of Light  
+Sample Distribution Shadow Maps  
+Adaptive Volumetric Shadow Maps  
+Uncharted 2: Character Lighting and Shading  
+Destruction Masking in Frostbite 2 using Volume Distance Fields  
+Water Flow in Portal 2  
 
 ## SIGGRAPH 2009
-Lighting Research at Bungie
-Light Propagation Volumes in CryEngine 3
-The Light Pre-Pass Renderer: Renderer Design for Efficient Support of Multiple Lights
-Rendering Technology at Black Rock Studios
-When Fuzzy is Good: Advances in Filtering Techniques
-Graphics Engine Postmortem from LittleBigPlanet
+Lighting Research at Bungie  
+Light Propagation Volumes in CryEngine 3  
+The Light Pre-Pass Renderer: Renderer Design for Efficient Support of Multiple Lights  
+Rendering Technology at Black Rock Studios  
+When Fuzzy is Good: Advances in Filtering Techniques  
+Graphics Engine Postmortem from LittleBigPlanet  
