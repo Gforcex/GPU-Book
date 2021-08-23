@@ -1265,13 +1265,13 @@ V 3D Engine Design
 # Advances in Real-Time Rendering in 3D Graphics and Games
 
 ## SIGGRAPH 2021
-Improved Spatial Upscaling through FidelityFX Super Resolution for Real-Time Game Engines
-Experimenting with Concurrent Binary Trees for Large Scale Terrain Rendering
-A Deep Dive into Nanite Virtualized Geometry
-Large-Scale Global Illumination at Activision
-Real-Time Samurai Cinema: Lighting, Atmosphere, and Tone mapping in Ghost of Tsushima
-Radiance Caching for Real-time Global Illumination
-Global Illumination Based on Surfels
+Improved Spatial Upscaling through FidelityFX Super Resolution for Real-Time Game Engines  
+Experimenting with Concurrent Binary Trees for Large Scale Terrain Rendering  
+A Deep Dive into Nanite Virtualized Geometry  
+Large-Scale Global Illumination at Activision  
+Real-Time Samurai Cinema: Lighting, Atmosphere, and Tone mapping in Ghost of Tsushima  
+Radiance Caching for Real-time Global Illumination  
+Global Illumination Based on Surfels  
 
 ## SIGGRAPH 2020
 Software-Based Variable Rate Shading in Call of Duty: Modern Warfare  
