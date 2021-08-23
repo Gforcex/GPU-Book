@@ -1202,7 +1202,76 @@ V 3D Engine Design
 31. Variance Reduction via Footprint Estimation in the Presence of Path Reuse
 32. Accurate Real-Time Specular Reflections with Radiance Caching
 
+## Ray Tracing Gems 2
+
+### PART I: Ray Tracing Foundations, editor: Per Christensen
+1. A Breakneck Summary of Photographic Terms (and Their Utility to Ray Tracing), by Trevor David Black
+2. Ray Axis-Aligned Bounding Box Intersection, by Peter Shirley, Ingo Wald, and Adam Marrs
+3. Essential Ray Generation Shaders, by Morgan McGuire and Zander Majercik
+4. Hacking the Shadow Terminator, by Johannes Hanika
+5. Sampling Textures with Missing Derivatives, by Maksim Aizenshtein and Matt Pharr
+6. Differential Barycentric Coordinates, by Tomas Akenine-Möller
+7. Texture Coordinate Gradients Estimation for Ray Cones, by Wessam Bahnassi
+8. Reflection and Refraction Formulas, by Eric Haines
+9. The Schlick Fresnel Approximation, by Zander Majercik
+10. Refraction Ray Cones for Texture Level of Detail, by Jakub Boksansky, Cyril Crassin, and Tomas Akenine-Möller
+11. Handling Translucency with Real-Time Ray Tracing, by Tianyi "Tanki" Zhang
+12. Motion Blur Corner Cases, by Christopher Kulla and Thiago Ize
+13. Fast Spectral Upsampling of Volume Attenuation, by Johannes Jendersie
+14. The Reference Path Tracer, by Jakub Boksansky and Adam Marrs
+### PART II: APIs and Tools, editor: David Hart
+15. The Shader Binding Table Demystified, by Will Usher
+16. Introduction to Vulkan Ray Tracing, by Matthew Rusch, Neil Bickford, and Nuno Subtil
+17. Using Bindless Resources with DirectX Raytracing, by Matt Pettineo
+18. WebRays: Ray Tracing on the Web, by Nick Vitsas, Anastasios Gkaravelis, Andreas A. Vasilakis, and Georgios Papaioannou
+19. Visualizing and Communicating Errors in Rendered Images, by Pontus Andersson, Jim Nilsson, and Tomas Akenine-Möller
+### PART III: Sampling, editor: Thomas Müller
+20. Multiple Importance Sampling 101, by Anders Lindqvist
+21. The Alias Method for Sampling Discrete Distributions, by Chris Wyman
+22. Weighted Reservoir Sampling: Randomly Sampling Streams, by Chris Wyman
+23. Rendering Many Lights with Grid-Based Reservoirs, by Jakub Boksansky, Paula Jukarainen, and Chris Wyman
+24. Using Blue Noise for Ray Traced Soft Shadows, by Alan Wolfe
+### PART IV: Shading and Effects, editor: Cem Yuksel
+25. Temporally Reliable Motion Vectors for Better Use of Temporal Information, by Zheng Zeng, Shiqiu Liu, Jinglei Yang, Lu Wang, and Ling-Qi Yan
+26. Ray Traced Level of Detail Cross-Fades Made Easy, by Holger Gruen
+27. Ray Tracing Decals, by Wessam Bahnassi
+28. Billboard Ray Tracing for Impostors and Volumetric Effects, by Felix Brüll, Robin Fynn Diedrichs, and Thorsten Grosch
+29. Hybrid Ray Traced and Image-Space Refractions, by Daniel Parhizgar and Marcus Svensson
+30. Real-Time Ray Traced Caustics, by Xueqing Yang and Yaobin Ouyang
+31. Tilt-Shift Rendering Using a Thin Lens Model, by Andrew Kensler
+### PART V: Intersection, editor: Angelo Pesce
+32. Fast and Robust Ray/OBB Intersection Using the Lorentz Transformation, by Rodolfo Sabino, Creto Augusto Vidal, Joaquim Bento Cavalcante-Neto, and José Gilvan Rodrigues Maia
+33. Real-Time Rendering of Complex Fractals, by Vinícius da Silva, Tiago Novello, Hélio Lopes, and Luiz Velho
+34. Improving Numerical Precision in Intersection Programs, by Ingo Wald
+35. Ray Tracing of Blobbies, by Manuele Sabbadin and Marc Droske
+36. Curved Ray Traversal, by Christiaan Gribble
+37. Ray-Tracing Small Voxel Scenes, by Dylan Lacewell
+### PART VI: Performance, editors: Josef Spjut and Michael Vance
+38. CPU Performance in DXR, by Peter Morley
+39. Inverse Transform Sampling Using Ray Tracing Hardware, by Nate Morrical and Stefan Zellmann
+40. Accelerating Boolean Visibility Operations Using RTX Visibility Masks, by Dirk Gerrit van Antwerpen and Oliver Klehm
+41. Practical Spatial Hash Map Updates, by Pascal Gautron
+42. Efficient Spectral Rendering on the GPU for Predictive Rendering, by David Murray, Alban Fichet, and Romain Pacanowski
+43. Efficient Unbiased Volume Path Tracing on the GPU, by Nikolai Hofmann and Alex Evans
+44. Path Tracing RBF Particle Volumes, by Aaron Knoll, Gregory P. Johnson, and Johannes Meng
+45. Fast Volumetric Gradient Shading Approximations for Scientific Ray Tracing, by Carson Brownlee and David DeMarle
+### PART VII: Ray Tracing in the Wild, editor: Jacob Munkberg
+46. Ray Tracing in Control, by Juha Sjöholm, Paula Jukarainen, and Tatu Aalto
+47. Light Sampling in Quake 2 Using Subset Importance Sampling, by Tobias Zirr
+48. Ray Tracing in Fortnite, by Patrick Kelly, Yuriy O'Donnell, Kenzo ter Elst, Juan Cañada, and Evan Hart
+49. ReBLUR: A Hierarchical Recurrent Denoiser, by Dmitry Zhdan
+50. Practical Solutions for Ray Tracing Content Compatibility in Unreal Engine 4, by Evan Hart
+
 # Advances in Real-Time Rendering in 3D Graphics and Games
+
+## SIGGRAPH 2021
+Improved Spatial Upscaling through FidelityFX Super Resolution for Real-Time Game Engines
+Experimenting with Concurrent Binary Trees for Large Scale Terrain Rendering
+A Deep Dive into Nanite Virtualized Geometry
+Large-Scale Global Illumination at Activision
+Real-Time Samurai Cinema: Lighting, Atmosphere, and Tone mapping in Ghost of Tsushima
+Radiance Caching for Real-time Global Illumination
+Global Illumination Based on Surfels
 
 ## SIGGRAPH 2020
 Software-Based Variable Rate Shading in Call of Duty: Modern Warfare  
