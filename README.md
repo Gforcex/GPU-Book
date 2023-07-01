@@ -1264,6 +1264,15 @@ V 3D Engine Design
 
 # Advances in Real-Time Rendering in 3D Graphics and Games
 
+## SIGGRAPH 2022
+Bisection Based Triangulation of Catmull Clark Subdivision  
+Lumen: Real-time Global Illumination in Unreal Engine 5  
+Ray Tracing Open Worlds in Unreal Engine 5  
+Nubis, Evolved: Real-Time Volumetric Clouds for Skies, Environments, and VFX  
+Probe-based lighting, strand-based hair system, and physical hair shading in Unity’s ‘Enemies’  
+Real-time Cluster Path Tracing for Remote Rendering  
+Rendering Water in Horizon Forbidden West  
+
 ## SIGGRAPH 2021
 Improved Spatial Upscaling through FidelityFX Super Resolution for Real-Time Game Engines  
 Experimenting with Concurrent Binary Trees for Large Scale Terrain Rendering  
