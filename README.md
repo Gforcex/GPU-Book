@@ -1264,6 +1264,13 @@ V 3D Engine Design
 
 # Advances in Real-Time Rendering in 3D Graphics and Games
 
+## SIGGRAPH 2023
+HypeHype Mobile Rendering Architecture
+Nubis3: Methods (and madness) to model and render immersive real-time voxel-based clouds
+Large-Scale Terrain Rendering in Call of Duty
+Authoring Materials That Matters - Substrate in Unreal Engine 5
+The Rendering of The Callisto Protocol
+
 ## SIGGRAPH 2022
 Bisection Based Triangulation of Catmull Clark Subdivision  
 Lumen: Real-time Global Illumination in Unreal Engine 5  
