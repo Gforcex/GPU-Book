@@ -838,7 +838,7 @@ Section 5 Environment Effects
 9.4 Packing Arbitrary Bit Fields into 16-bit Floating-point Render Targets in DirectX10  
 9.5 Interactive Image Morphing Using Thin-Plate Spline  
  
-# GPU PRo  
+# GPU Pro  
  
 ## GPU Pro 1  
   
@@ -1264,6 +1264,16 @@ V 3D Engine Design
 
 # Advances in Real-Time Rendering in 3D Graphics and Games
 
+## SIGGRAPH 2024
+Neural Light Grid: Modernizing Irradiance Volumes with Machine Learning         
+Seamless Rendering on Mobile: The Magic of Adaptive LOD Pipeline         
+Flexible and Extensible Shader Authoring in Frostbite with Serac         
+Announcing The Call of Duty Open-Source USD Caldera Data Set         
+Variable Rate Shading with Visibility Buffer Rendering         
+Shipping Dynamic Global Illumination in Frostbite         
+Hemispherical Lighting Insights from the Call of Duty Production Lessons         
+Achieving scalable performances for large scale components with CBTs         
+
 ## SIGGRAPH 2023    
 HypeHype Mobile Rendering Architecture     
 Nubis3: Methods (and madness) to model and render immersive real-time voxel-based clouds    
@@ -1412,3 +1422,4 @@ The Light Pre-Pass Renderer: Renderer Design for Efficient Support of Multiple L
 Rendering Technology at Black Rock Studios  
 When Fuzzy is Good: Advances in Filtering Techniques  
 Graphics Engine Postmortem from LittleBigPlanet  
+     
