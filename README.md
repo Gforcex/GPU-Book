@@ -1152,6 +1152,40 @@ V 3D Engine Design
 1. Real-Time Ray-Traced One-Bounce Caustics
 2. Adaptive Anti-Aliasing using Conservative Rasterization and GPU Ray Tracing
 
+## GPU Zen 3
+
+### I GPU-Driven Rendering
+1. GPU-Driven Rendering in Assassin’s Creed Mirage 
+2. GPU-Driven Curve Generation from Mesh Contour
+3. GPU Readback Texture Streaming in Skull and Bones
+4. Triangle Visibility Buffer 2.0
+5. Resource Management with Frame Graph in Messiah
+6. Multi-mega Particle System
+
+### II   Rendering and Simulation 
+7. The Evolution of the Real-Time Lighting Pipeline in Cyberpunk 
+8. Real-Time Ray Tracing of Large Voxel Scenes 
+9. Optimizing FSR 2 for Adreno 
+10. IBL-BRDF  Multiple  Importance  Sampling  for  Stochastic  Screen-Space Indirect Specular
+11. Practical Clustered Forward Decals 
+12. Virtual Shadow Maps
+13. Real-Time Simulation of Massive Crowds 
+14. Diffuse Global Illumination
+
+### III  Game Engine Design 
+15. GPU Capability Tracking and Configuration System
+16. The Forge Shader Language
+17. Simple  Automatic  Resource  Synchronization  Method  for  Vulkan
+
+### IV  Tools of the Trade 
+18. Differentiable Graphics with Slang.D for Appearance-Based Optimization 
+19. DRToolkit:  Boosting Rendering Performance Using Differentiable Rendering
+20. Flowmap Baking with LBM-SWE 
+21. Animating Water Using Profile Buffer 
+22. Advanced Techniques for Radix Sort 
+23. Two-Pass HZB Occlusion Culling 
+24. Shader Server System
+
 # Ray Tracing Gems
 
 ## Ray Tracing Gems 1
