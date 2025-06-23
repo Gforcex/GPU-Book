@@ -1456,4 +1456,80 @@ The Light Pre-Pass Renderer: Renderer Design for Efficient Support of Multiple L
 Rendering Technology at Black Rock Studios  
 When Fuzzy is Good: Advances in Filtering Techniques  
 Graphics Engine Postmortem from LittleBigPlanet  
+
+# SIGGRAPH Course: Physically Based Shading in Theory and Practice
+
+
+## SIGGRAPH 2025
+Physics and Math of Shading         
+OpenPBR: A Closer Look at Novel Features and Implementation Details          
+EON: Advancing Rough Diffuse Reflection with Energy Preservation and Clipped LTC Sampling         
+Spectral Rendering in a Non-Spectral Renderer: How Can we Author and Render Fluorescence in RGB?          
+Strand: A Production Model for Shading Hair, Fur and Feathers         
+Bridging the Gap Between Offline and Real Time with Neural Materials         
+Driving Toward Reality: Physically Based Tone Mapping and Perceptual Fidelity in Gran Turismo 7         
+
+## SIGGRAPH 2020
+Some Thoughts on the Fresnel Term          
+Bringing an Accurate Fresnel to Real-Time Rendering         
+MaterialX Physically Based Shading Nodes         
+Putting the Pieces Together: A Physically(ish) Based Approach to Material Composition         
+Physically Based and Scalable Atmospheres in Unreal Engine         
+Samurai Shading in Ghost of Tsushima         
+Let’s Get Physical: The Hairy History of Shading at MPC         
+
+## SIGGRAPH 2017
+Real-Time Line- and Disk-Light Shading         
+Physically Based Shading at DreamWorks Animation         
+Volumetric Skin and Fabric Shading at Framestore          
+Practical Multilayered Materials in Call of Duty: Infinite Warfare         
+Pixar’s Foundation for Materials: PxrSurface and PxrMarschnerHair          
+Revisiting Physically Based Shading at Imageworks         
+
+## SIGGRAPH 2016
+Recent Advances in Physically Based Shading         
+Unified Shading and Asset Development at Lucasfilm and ILM          
+Physically Based Sky, Atmosphere and Cloud Rendering in Frostbite          
+An Artist-Friendly Workflow for Panoramic HDRI          
+Physically Based Hair Shading in Unreal          
+Practical Real-Time Strategies for Accurate Indirect Occlusion         
+Towards Bidirectional Path Tracing at Pixar         
+
+## SIGGRAPH 2015
+layerlab: A Computational Toolbox for Layered Materials         
+Approximate Models for Physically Based Rendering          
+Real-World Measurements for Call of Duty: Advanced Warfare          
+Advanced Lighting R&D at Ready At Dawn Studios          
+Extending the Disney BRDF to a BSDF with Integrated Subsurface Scattering          
+Physically Based Material Modeling at Weta Digital         
+
+## SIGGRAPH 2014        
+Understanding the Masking-Shadowing Function          
+Antialiasing Physically Based Shading with LEADR Mapping          
+Designing Reflectance Models for New Consoles          
+Moving Frostbite to PBR          
+Physically Based Shader Design in Arnold          
+Art Direction within Pixar’s Physically Based Lighting System          
+
+## SIGGRAPH 2013
+Getting More Physical in Call of Duty: Black Ops II          
+Real Shading in Unreal Engine 4          
+Crafting a Next-Gen Material Pipeline for The Order: 1886          
+Everything You Always Wanted to Know About mia_material          
+OSL The Great and Powerful         
+Physically Based Shading at Pixar          
+
+## SIGGRAPH 2012
+Calibrating Lighting and Materials in Far Cry 3         
+Beyond a Simple Physically Based Blinn-Phong Model in Real-Time         
+Physical Production Shaders with OSL          
+Physically Based Shading at Disney          
+Reflection Model Design for WALL-E and Up          
+
+## SIGGRAPH 2010
+Practical Implementation of Physically-Based Shading Models at tri-Ace          
+Crafting Physically Motivated Shading Models for Game Development         
+Terminators and Iron Men: Image-Based Lighting and Physical Shading at ILM          
+Faster Photorealism in Wonderland: Physically-Based Shading and Lighting at Sony Pictures Imageworks          
+
      
