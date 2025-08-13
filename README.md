@@ -1298,6 +1298,15 @@ V 3D Engine Design
 
 # Advances in Real-Time Rendering in 3D Graphics and Games
 
+## SIGGRAPH 2025
+Adaptive Voxel-Based Order-Independent Transparency              
+Ray Tracing the World of Assassin's Creed Shadows              
+Strand-based hair and fur rendering in Indiana Jones and the Great Circle              
+Fast as Hell: idTech8 Global Illumination              
+Stochastic Tile-Based Lighting in HypeHype              
+Real-Time Subsurface Scattering via Hybrid ReSTIR-Path-Tracing and Diffusion              
+MegaLights: Stochastic Direct Lighting in Unreal Engine 5              
+
 ## SIGGRAPH 2024
 Neural Light Grid: Modernizing Irradiance Volumes with Machine Learning         
 Seamless Rendering on Mobile: The Magic of Adaptive LOD Pipeline         
