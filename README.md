@@ -1186,6 +1186,27 @@ V 3D Engine Design
 23. Two-Pass HZB Occlusion Culling 
 24. Shader Server System
 
+## GPU Zen 4
+
+### I General Rendering
+1. Visibility Buffer and Deferred Rendering in DOOM: The Dark Ages
+2. Volumetric Clouds and Atmosphere in DOOM: The Dark Ages
+3. Animating Trees in Assassin’s Creed Shadows
+4. Remote Particle Editor
+
+### II Ray Tracing
+5. Ray Tracing the World of Assassin’s Creed Shadows
+6. Ray Tracing Thousands of Lights for Direct Illumination in Snowdrop
+7. ReSTIR-Based Path Tracing in Unreal Engine 5
+8. Hash-Based Hierarchical Radiance Binning
+
+### III Tools of the Trade
+9. Real-Time Neural Network Implementation for GPUs
+10. Practical Unbounded Hash-Grid Encoding for Neural Radiance Caching
+11. Continuous Streaming Systems in Game Engines: Architectures for Real-
+12. Comprehensive Neural Materials
+
+
 # Ray Tracing Gems
 
 ## Ray Tracing Gems 1
